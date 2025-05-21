@@ -1,3 +1,0 @@
-/home/ichan/Documents/projects/zed_segment_CUDA/build/CMakeFiles/zed_segment_CUDA.dir
-/home/ichan/Documents/projects/zed_segment_CUDA/build/CMakeFiles/edit_cache.dir
-/home/ichan/Documents/projects/zed_segment_CUDA/build/CMakeFiles/rebuild_cache.dir
