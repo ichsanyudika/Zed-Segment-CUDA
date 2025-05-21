@@ -10,11 +10,11 @@ Before you begin, ensure you have:
 
 - OpenCV (v4.x or higher)
 
-    - CUDA Toolkit (optional, for GPU acceleration)
+- CUDA Toolkit (optional, for GPU acceleration)
 
-    - C++17 compatible compiler (GCC, Clang, MSVC)
+- C++17 compatible compiler (GCC, Clang, MSVC)
 
-🧰 CMake for building the project
+- CMake for building the project
 
 ### 🚀 How to Use
 
@@ -40,11 +40,11 @@ Start the program by typing:
 
 You will see three windows:
 
-  🎥 Live Camera Feed (detected objects highlighted)
+  - Live Camera Feed (detected objects highlighted)
 
-  🟧 Color Mask (segmented areas based on HSV)
+  - Color Mask (segmented areas based on HSV)
 
-  🎛️ Trackbars (to adjust HSV thresholds dynamically
+  - Trackbars (to adjust HSV thresholds dynamically
 
 4️⃣ Adjust HSV Values
 
