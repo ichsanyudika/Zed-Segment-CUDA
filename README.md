@@ -4,15 +4,15 @@
 
 Before you begin, ensure you have:
 
-🛠️ ZED SDK — Download here
+- ZED SDK — Download here
 
-📷 ZED Stereo Camera (ZED / ZED Mini / ZED 2) connected via USB 3.0
+- ZED Stereo Camera (ZED / ZED Mini / ZED 2) connected via USB 3.0
 
-🔧 OpenCV (v4.x or higher)
+- OpenCV (v4.x or higher)
 
-⚡ CUDA Toolkit (optional, for GPU acceleration)
+    - CUDA Toolkit (optional, for GPU acceleration)
 
-💻 C++17 compatible compiler (GCC, Clang, MSVC)
+    - C++17 compatible compiler (GCC, Clang, MSVC)
 
 🧰 CMake for building the project
 
