@@ -62,10 +62,6 @@ Press q or ESC to quit and close all windows safely.
 
 ✨ Enjoy precise color-based object tracking and real-time depth estimation with your ZED camera!
 
-### ▶️ Demo Video
-
-Link YouTube : https://youtu.be/aRz8euggIXw?si=dS7p0-FL21UcEboA
-
 ### 📸 Results
 
 ![](output/output.png)
