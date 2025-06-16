@@ -8,8 +8,6 @@
 
 - CUDA Toolkit (optional, for GPU)
 
-- C++17 compiler (GCC/Clang/MSVC)
-
 - CMake
 
 ### How to Use
