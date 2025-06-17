@@ -6,7 +6,7 @@
 
 - OpenCV ≥ 4.x
 
-- CUDA Toolkit (optional, for GPU)
+- CUDA Toolkit (GPU)
 
 - CMake
 
